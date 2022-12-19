@@ -15,10 +15,7 @@ Important links for the bot:
     1.1) manually type the data from website 
     OR
     1.2) scrape the website every time
-2) make it collect usernames and send them real-time to google sheets on my drive (askhat.aub.work@gmail.com)
-    2.1) make a function to count DISTINCT usernames, anon them
-    2.2) make a real-time dashboard of uses per day
-3) buttons and info should be:
+2) buttons and info should be:
     first things first: Выберите язык
                         Казахский
                         Русский
