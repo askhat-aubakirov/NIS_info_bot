@@ -54,7 +54,7 @@ from telegram.ext import (
 #updater = Updater("5354566347:AAFl3UEnNV8ZIKnMZa2WnF6TFtxxqLOgCe4")
 
 #NISinfo_bot TOKEN by Azat
-updater = Updater("5066784590:AAF-QzNoj2TQxE7EuXWQL6TfI12y1OXqogo")
+updater = Updater("TOKEN")
 dispatcher = updater.dispatcher
 
 STATE0, STATE1, STATE2 = range(3)
